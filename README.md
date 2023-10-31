@@ -1,4 +1,4 @@
-## Tsega Bible Fellowship Church Website 
+## Sample Blog Website 
 
 ## Tech Stack
 NextJS 13 - Full Stack Framework 
@@ -9,17 +9,4 @@ Shadcn UI - Component Library
 
 Clerk - Authentication
 
-React Hook Form - Forms
-
-Zod - Type Schema
-
-Tanstack Query - Querying Data & State Management
-
-Supabase - Database
-
-Sentry - Logging
-
 Sanity - CMS
-
-Messaing - Twilio
-
