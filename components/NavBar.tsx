@@ -14,7 +14,6 @@ import Link from "next/link"
 import * as React from "react"
 import { GiHamburgerMenu } from "react-icons/gi"
 import { ModeToggle } from "./ModeToggle"
-import { Profile } from "./Profile"
 import { Button } from "./ui/button"
 import { SheetContent, SheetDescription, SheetHeader, SheetTitle, SheetTrigger } from "./ui/sheet"
 
@@ -69,7 +68,6 @@ export function NavBar() {
                 </NavigationMenuList>
             </NavigationMenu>
             <div className="flex items-center gap-3">
-                {userId && <Profile />}
                 <ModeToggle />
             </div>
         </div>
